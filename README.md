@@ -52,13 +52,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Although the video walkthrough does not show it, it took a while to figure out that the hashed user ID was not any combination of name, nickname or other. The bulk of the time spent was in guessing the format. Eventually it dawned on me that the names were exactly the same as the previous problem, and the account numbers were likely hashes of the original.
-
-However, this is almost the same as the prevous lab.
+This is exactly the same as the prevous lab.
 
 ## License
 
-    Copyright [2018] [Yu Xuan Huang]
+    Copyright [2019] [Yu Xuan Huang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
