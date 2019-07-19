@@ -1,6 +1,6 @@
 # Cybersecurity Pre-Work - *Yu Xuan Huang* 
 
-Time spent: **1** hours spent in total 
+Time spent: **0.6** hours spent in total 
 
 ## User Stories
 
@@ -13,7 +13,7 @@ The following **required** functionality is completed:
     -  [x]  Register an account at security.shephard.com
   
 2. [x]  Required: Challenge 1 - HTTP Headers
-3. [x]  Required: Challenge 2 - Basic Routes 1
+3. [x]  Required: Challenge 2 - HTTP Methods
 4. [x]  Required: Challenge 3 - Query Params 1
 5. [x]  Required: Challenge 4 - Insecure Direct Object References (IDOR)
 6. [x]  Required: Challenge 5 - IDOR Challenge 1 
@@ -30,8 +30,8 @@ Here's a walkthrough of implemented user stories:
 HTTP Headers:
 <img src='1.gif' title='HTTP Headers' width='' alt='HTTP Headers' />
 
-Basic Routes 1  
-<img src='2.gif' title='Basic Routes 1' width='' alt='Routes1' />
+HTTP Methods
+<img src='2.gif' title='HTTP Methods' width='' alt='HTTP Methods' />
 
 Query Params 1  
 <img src='3.gif' title='Query Params 1' width='' alt='Query' />
